@@ -1,0 +1,86 @@
+/* =============================================================================
+ * Name: CSS Style V3.0 || 2017 !!!
+ * Company: Banglasoft@Corporation™ !!!
+ * Founder: Engr. Md Mahadi Hassan Herock !!!
+ * Website URL: http://www.bangla-soft.com !!!
+ * Description: Try To Do Something Better Than Other !!!
+ ============================================================================ */
+
+/* ====================== CSS Styling Start From Here ======================= */
+
+/* ========================= General CSS For All ============================ */
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+/* ============================ CSS For Fonts =============================== */
+
+@import url('https://fonts.googleapis.com/css?family=Anton');
+
+/* ========================= Fonts CSS End Here ============================= */
+
+/* ==================== General CSS For All End Here ======================== */
+
+/* =================== CSS For Our Happy Clients Area ======================= */
+
+.happy-clients-area {
+	margin: 100px 0px;
+	padding: 0px;
+}
+
+.clients-headding {
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+.clients-headding h3 {
+	font-family: 'Anton', sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+	letter-spacing: 2px;
+}
+
+.clients-border hr {
+	background: #65AE38;
+	border-radius: 50px;
+	display: inline-block;
+	height: 5px;
+	margin: 10px 0px 15px 0px;
+	padding: 0px;
+	width: 45px;
+}
+
+.clients-border hr.clients-black {
+	background: #222222;
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 25px;
+}
+
+.single-testimonial .ked {
+	font-size: 16px;
+	font-style: italic;
+	letter-spacing: .5px;
+	margin: 0px 0px 10px 0px;
+	padding: 0px;
+}
+
+.single-testimonial h4 {
+	color: #222222;
+	font-size: 18px;
+	font-weight: 700;
+	margin: 0px;
+	padding: 0px;
+}
+
+.single-testimonial .sed {
+	font-size: 15px;
+	margin: 0px;
+	padding: 0px;
+}
+
+/* ================== Happy Clients Area CSS End Here ======================= */
+
+/* ======================= CSS Styling End Here ============================= */

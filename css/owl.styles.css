@@ -1,0 +1,68 @@
+/* =============================================================================
+ * Name: CSS Style V3.0 || 2017 !!!
+ * Company: Banglasoft@Corporation™ !!!
+ * Founder: Engr. Md Mahadi Hassan Herock !!!
+ * Website URL: http://www.bangla-soft.com !!!
+ * Description: Try To Do Something Better Than Other !!!
+ ============================================================================ */
+
+/* ====================== CSS Styling Start From Here ======================= */
+
+/* ===================== CSS For Owl Carousel Plaugin ======================= */
+
+.single-testimonial {
+	border: 1px solid #D5DCCE;
+	padding: 20px 10px 23px 100px;
+	color: #7C7E7C;
+	box-shadow: 0px 0px 10px #D5DCCE;
+	margin: 2px;
+	position: relative;
+}
+
+.single-testimonial:before {
+	position: absolute;
+	content: "\f10e";
+	left: 8.5%;
+	top: 50%;
+	line-height: 30px;
+	margin-top: -13px;
+	color: #65AE38;
+	font-family: fontAwesome;
+	font-size: 25px;
+	font-weight: 700;
+}
+
+.single-testimonial:after {
+	background: #D1D1D1;
+	content: "";
+	height: 70%;
+	left: 23%;
+	position: absolute;
+	top: 15%;
+	width: 1px;
+}
+
+.clients-testimonial .owl-dots {
+	margin: 10px;
+	padding: 0px;
+	text-align: center;
+}
+
+.clients-testimonial .owl-dots div {
+	background: #65AD38;
+	border-radius: 50px;
+	display: inline-block;
+	height: 6px;
+	margin: 2px;
+	transition: 1s;
+	width: 20px;
+}
+
+.clients-testimonial .owl-dots div.active {
+	background: #333333;
+	width: 30px;
+}
+
+/* ================= Owl Carousel Plaugin CSS End Here ====================== */
+
+/* ======================= CSS Styling End Here ============================= */
